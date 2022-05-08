@@ -1,5 +1,12 @@
 # GraphTheoryProject
 
+# Prerequisite
+
+Step 1) It's important to install Git to be able to copy the repository  https://git-scm.com/downloads  
+Step 2) You will also need Anaconda, This is where the Jupyter Notebooks are made  https://www.anaconda.com  
+
+NB. There is a Anaconda Mini, but I have not tested if it has the files to run my Notebooks  
+
 # How to Open Jupyter NoteBook
 
 Step 1) Create a folder anywhere on local computer  
@@ -13,7 +20,7 @@ Step 6) Type in the CMD cd GraphTheoryProject
 Step 7) Type in the CMD Jupyter notebook  
 
 This will start you session and run a server off the CMD previously opened  
-Session are run on http://localhost:8888/tree but the window should open automatically after server is running.
+Sessions are run on http://localhost:8888/tree but the window should open automatically after server is running.
 
 # What is this for?
 
