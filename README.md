@@ -12,4 +12,10 @@ Step 5) Open the CMD we opened earlier type type "git clone <link copied>
 Step 6) Type in the CMD cd GraphTheoryProject  
 Step 7) Type in the CMD Jupyter notebook  
 
-This will start you session and run a server off the CMD previously opened
+This will start you session and run a server off the CMD previously opened  
+Session are run on http://localhost:8888/tree but the window should open automatically after server is running.
+
+# What is this for?
+
+This Repository was created as a project for my third year of collage, the task was to tackle some of the problems we see in the world of computing and to practice our researching skills. In the repository there are two jupyter notebooks which describe contents suchs as the Graph Iomorphism Problem and the componets of it and a discussion about Heap Sort and its components. Within the notebook HTML is used as the decribing factors and Python is used to run some basic code. The contents of the books contain information gathered from our Lecturer at the time and information from the internet. References are availible at the end of both notebooks.
+
